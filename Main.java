@@ -59,7 +59,9 @@ public class Main {
                     break;
 
                 case 4:
-                    System.out.println("ArrayList module coming soon.");
+                   //  System.out.println("ArrayList module coming soon.");
+                    ArrayListDemo.showMenu(originalVehicles, input);
+
                     break;
 
                 case 5:
