@@ -70,7 +70,8 @@ public class Main {
                     break;
 
                 case 6:
-                    System.out.println("Queue module coming soon.");
+                   // System.out.println("Queue module coming soon.");
+                   QueueDemo.showMenu(originalVehicles, input);
                     break;
 
                 case 7:
