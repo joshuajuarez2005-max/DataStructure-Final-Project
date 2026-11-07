@@ -54,7 +54,8 @@ public class Main {
                     break;
 
                 case 3:
-                    System.out.println("Sorting module coming soon.");
+                    // System.out.println("Sorting module coming soon.");
+                    Sorting.showMenu(originalVehicles, input);
                     break;
 
                 case 4:
