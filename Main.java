@@ -49,7 +49,8 @@ public class Main {
                     break;
 
                 case 2:
-                    System.out.println("Searching module coming soon.");
+                    // System.out.println("Searching module coming soon.");
+                    Searching.showMenu(originalVehicles, input);
                     break;
 
                 case 3:
