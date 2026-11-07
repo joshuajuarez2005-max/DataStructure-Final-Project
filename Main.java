@@ -65,7 +65,8 @@ public class Main {
                     break;
 
                 case 5:
-                    System.out.println("LinkedList module coming soon.");
+                    // System.out.println("LinkedList module coming soon.");
+                    LinkedListDemo.showMenu(originalVehicles, input);
                     break;
 
                 case 6:
