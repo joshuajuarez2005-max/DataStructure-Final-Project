@@ -75,7 +75,8 @@ public class Main {
                     break;
 
                 case 7:
-                    System.out.println("Stack module coming soon.");
+                    // System.out.println("Stack module coming soon.");
+                    StackDemo.showMenu(originalVehicles, input);
                     break;
 
                 case 8:
